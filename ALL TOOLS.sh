@@ -1,19 +1,3 @@
-echo ""
-echo ""
-echo ""
-echo "The script is  made by AD TECH"
-echo ""
-echo ""
-echo ""
-echo "subscribe  our channel"
-echo ""
-echo ""
-echo ""
-echo "Installtion process is started" 
-echo ""
-echo ""
-echo ""
-
 apt-get update -y                    
 apt install python -y           
 apt install python2 -y
@@ -46,16 +30,4 @@ apt install wcalc -y
 apt install openssl -y
 apt install bmon -y
 apt-get upgrade -y
-echo ""
-echo ""
-echo ""
-echo ""
-
-echo "All basic packages and tools is installed"
-echo ""
-echo ""
-echo "Be a Hacker...."
-echo ""
-echo ""
-echo "Subscribe our Youtube channel and press Bell icon"
 exit
